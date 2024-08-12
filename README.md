@@ -1,1 +1,3 @@
 # odin-recipes
+Hi. This is my first project for The Odin Project. I will be writing my own code from scratch to make a recipe website. I will be using my knowledge on using the boilerplate, creating links to websites and images, using bold and italicized text, and maybe other things I don't remember right now. 
+I do not currently know when to commit things. I don't know how or when to write a commit message. I don't know how to "push things to git". Over all I'm pretty confused, but let's see if I can do this.
